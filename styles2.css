@@ -1,0 +1,12 @@
+h2 {
+    color: purple;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    font-style: italic;
+}
+ul {
+    color: lavender;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+}
