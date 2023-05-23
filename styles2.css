@@ -1,12 +1,18 @@
 h2 {
     color: purple;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: right;
+    text-align: center;
     font-style: italic;
 }
 ul {
-    color: lavender;
+    color: black;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: aquamarine;
+    font-size: 20px;
+    text-align:center;
+    list-style-position: inside;
+    
+    
+
+    
 }
